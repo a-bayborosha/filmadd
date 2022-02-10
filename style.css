@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+  font-size: 5vh;
+}
+
+#output {
+  height: 50vh;
+  width: 100%;
+  border: 1px solid black;
+  text-align: center;
+  padding-top: 40vh;
+  font-size: 5vh;
+}
